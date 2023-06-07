@@ -1,0 +1,26 @@
+######################################
+# Keywords file for TeensyADS1x15 Library
+######################################
+
+######################################
+# Datatypes
+######################################
+
+TeensyADS1115 KEYWORD1
+TeensyADS1015 KEYWORD1
+TeensyADS1X15 KEYWORD1
+
+######################################
+# Methods/Functions
+######################################
+
+begin			KEYWORD2
+readADC_SingleEnded 	KEYWORD2
+readADCDifferential 	KEYWORD2
+getGain			KEYWORD2
+setGain			KEYWORD2
+getDataRate		KEYWORD2
+setDataRate		KEYWORD2
+readVolts		KEYWORD2
+getClock		KEYWORD2
+setClock		KEYWORD2
